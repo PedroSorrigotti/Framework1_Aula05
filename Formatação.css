@@ -1,0 +1,37 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.Linha2
+{
+    background-color: greenyellow;
+    color: black
+}
+
+#ID_proprio
+{
+    background-color: red;
+    color: black;
+}
+
+#divdireita
+{
+    width: 35%;
+    float: left;
+}
+
+#divesquerda
+{
+    width: 35%;
+    float: left;
+}
+
+.principal
+{
+    width: 100%;
+}
